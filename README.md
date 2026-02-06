@@ -1,10 +1,10 @@
-# bittori-alfaro
-Profil de développeuse web junior en recherche d'alternance Concepteur Développeur d'Applications
-
 # Bittori Alfaro
 
-Développeuse web – Symfony / JavaScript / Next.js  
-Intéressée par des projets concrets, orientés métier et utilisateurs.
+Développeuse web junior – Symfony / JavaScript / Next.js  
+En recherche d’une alternance en Conception et Développement d’Applications (CDA)
+
+J’apprécie particulièrement les projets concrets, orientés métier et utilisateurs.
+
 ---
 
 ## À propos
@@ -53,6 +53,7 @@ Le projet a été imaginé, conçu et développé dans sa globalité, depuis l�
 - Gestion des environnements et des variables sensibles
 - Mise en production et maintenance applicative
 
+Ce projet est exploité en production et s’inscrit dans une démarche d’amélioration continue, avec une réflexion en cours autour d’une version 2.
 
 🔒 Le code n’est pas public  
 
