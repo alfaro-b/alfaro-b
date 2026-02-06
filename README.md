@@ -56,6 +56,16 @@ Le projet a été imaginé, conçu et développé dans sa globalité, depuis l�
 
 🔒 Le code n’est pas public  
 
+#### Aperçu de l’application
+
+![Récapitulatif des commandes – backoffice](assets/screenshots/admin-orders.png)
+
+Exemple d’écran du backoffice permettant au photographe de suivre et d’exporter les commandes.
+
+
+> Données masquées pour des raisons de confidentialité.
+
+
 ---
 
 ## 🎯 Objectif actuel
