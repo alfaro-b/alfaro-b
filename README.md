@@ -17,61 +17,91 @@ Aujourd’hui, j’applique ces compétences au développement d’applications 
 
 ## 🛠️ Compétences techniques
 
-- **Backend** : Symfony, API REST, Doctrine, MySQL  
-- **Frontend** : HTML, CSS, JavaScript, React, Next.js  
-- **Outils** : Git, GitHub, VPS OVH, Apache, PM2  
-- **Autres** : génération de PDF, exports Excel, déploiement
+**Backend**
+- Symfony
+- API REST
+- Doctrine
+- MySQL
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+
+**Outils / Environnement**
+- Git / GitHub
+- Vercel
+- Scalingo
+- OVH Object Storage
+- gestion des environnements et déploiement
+
+**Autres**
+- génération de PDF
+- exports Excel
+- conception d’applications métier
 
 ---
 
-## 🚀 Projet principal
+# 🚀 Projet principal
 
-### Manaketak – Application de commande de photos scolaires
+## Manaketak – Application de commande de photos scolaires
 
-Manaketak est une application web complète destinée à la gestion et à la commande de photos scolaires. Elle a été conçue pour répondre à des besoins métiers concrets, en lien avec l’activité d’un photographe scolaire et les contraintes des établissements et des familles.
+Manaketak est une application web complète destinée à la gestion et à la commande de photos scolaires.
 
-Le projet a été imaginé, conçu et développé dans sa globalité, depuis l’analyse des besoins jusqu’à la mise en production.
+Elle a été conçue pour répondre à des besoins métiers concrets liés à l’activité d’un photographe scolaire, en tenant compte des contraintes des établissements et des familles.
 
-#### Fonctionnalités clés
-- Gestion des écoles, classes et années scolaires
-- Accès sécurisé aux galeries photos pour les parents
-- Création et suivi des commandes (photos de groupe et individuelles)
-- Génération automatique de documents (bons de commande PDF)
-- Exports Excel pour le suivi et la préparation des commandes
-- Envoi d’e-mails transactionnels
+Le projet a été imaginé, conçu et développé dans sa globalité, depuis l’analyse des besoins jusqu’au déploiement.
 
-#### Architecture & choix techniques
-- Backend : API REST avec Symfony
-- Frontend : application Next.js (espaces parents et écoles)
-- Base de données relationnelle (MySQL)
-- Gestion des rôles et des accès utilisateurs
-- Séparation claire des responsabilités front / back
+---
 
-#### Déploiement & exploitation
-- Déploiement sur un VPS OVH
-- Configuration serveur (Apache, reverse proxy)
-- Gestion des environnements et des variables sensibles
-- Mise en production et maintenance applicative
+## Fonctionnalités clés
 
-Ce projet est exploité en production et s’inscrit dans une démarche d’amélioration continue, avec une réflexion en cours autour d’une version 2.
+- gestion des écoles, classes et années scolaires
+- accès sécurisé aux galeries photos pour les familles
+- sélection et commande de photos individuelles et de groupe
+- suivi des commandes dans un backoffice dédié
+- génération automatique de bons de commande PDF
+- export Excel pour le suivi et la préparation des commandes
+- envoi d’e-mails transactionnels
 
-🔒 Le code n’est pas public  
+---
 
-#### Aperçu de l’application
+## Architecture & choix techniques
 
-![Récapitulatif des commandes – backoffice](assets/screenshots/admin-orders.png)
+- **Backend :** API REST avec Symfony  
+- **Frontend :** application Next.js  
+- **Base de données :** MySQL  
+- **Stockage des photos :** OVH Object Storage (compatible S3)  
+- **Architecture :** séparation claire frontend / backend / stockage  
 
-Exemple d’écran du backoffice permettant au photographe de suivre et d’exporter les commandes.
+---
 
+## Déploiement & exploitation
 
-> Données masquées pour des raisons de confidentialité.
+- **Frontend :** déployé sur Vercel  
+- **Backend :** déployé sur Scalingo  
+- **Stockage des photos :** OVH Object Storage  
+- gestion des environnements et des variables sensibles  
+- maintenance et amélioration continue
 
+---
+
+## Aperçu du projet
+
+➡️ Présentation détaillée du projet :  
+https://github.com/alfaro-b/manaketak-showcase
+
+---
+
+🔒 Le code source complet n’est pas public car le projet est exploité en production.
 
 ---
 
 ## 🎯 Objectif actuel
 
-Poursuivre mon évolution en développement d’applications web dans le cadre d'une **alternance en Conception et Développement d’Applications (CDA)**.
+Poursuivre mon évolution en développement d’applications web dans le cadre d’une **alternance en Conception et Développement d’Applications (CDA)**.
 
 ---
 
