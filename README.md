@@ -1,40 +1,42 @@
 # Bittori Alfaro
 
-Développeuse web junior – Symfony / JavaScript / Next.js  
-En recherche d’une alternance en Conception et Développement d’Applications (CDA)
+Développeuse web | En recherche d'une alternance en Conception et Développement d'Applications (CDA)
 
-J’apprécie particulièrement les projets concrets, orientés métier et utilisateurs.
+Après une reconversion professionnelle mûrement réfléchie, j'ai choisi de me tourner vers le développement web, un domaine dans lequel je retrouve ce qui me motive : la logique, la créativité, la résolution de problèmes et l'apprentissage continu.
+
+J'aime particulièrement travailler sur des projets concrets, comprendre les besoins des utilisateurs et voir mes idées prendre forme à travers des applications fonctionnelles.
 
 ---
 
 ## À propos
 
-Forte d’une expérience professionnelle de longue durée dans un environnement structuré et exigeant, j’ai développé des compétences transversales telles que la rigueur, l’analyse des besoins, l’organisation et le sens du service.
+Mon parcours professionnel m'a permis de développer des compétences que je retrouve aujourd'hui dans le développement web : la rigueur, l'organisation, l'autonomie et le sens du service.
 
-Aujourd’hui, j’applique ces compétences au développement d’applications web, en concevant des solutions claires, fiables et adaptées aux usages.
+J'aime comprendre les besoins, chercher des solutions et construire des applications utiles et adaptées aux utilisateurs.
+
+Mon projet Manaketak illustre bien cette approche : partir d'un besoin réel et développer une solution complète, de sa conception jusqu'à sa mise en production.
 
 ---
 
 ## 🛠️ Compétences techniques
 
 **Backend**
-- Symfony
+- PHP / Symfony
 - API REST
 - Doctrine
 - MySQL
+- Java
+- Python
 
 **Frontend**
-- HTML
-- CSS
+- HTML / CSS
 - JavaScript
-- React
-- Next.js
+- React / Next.js
 
-**Outils / Environnement**
+**Outils et déploiement**
 - Git / GitHub
-- Vercel
-- Scalingo
-- OVH Object Storage
+- Vercel / Scalingo
+- OVH Object Storage (S3)
 - gestion des environnements et déploiement
 
 **Autres**
@@ -44,67 +46,59 @@ Aujourd’hui, j’applique ces compétences au développement d’applications 
 
 ---
 
-# 🚀 Projet principal
+## 🚀 Projet principal
 
-## Manaketak – Application de commande de photos scolaires
+### Manaketak – Application web de gestion et de commande de photos scolaires
 
-Manaketak est une application web complète destinée à la gestion et à la commande de photos scolaires.
+Manaketak est un projet personnel né d'un besoin concret dans le domaine de la photographie scolaire.
 
-Elle a été conçue pour répondre à des besoins métiers concrets liés à l’activité d’un photographe scolaire, en tenant compte des contraintes des établissements et des familles.
+J'ai conçu et développé cette application dasn son ensemble, de l'analyse des besoins jusqu'à sa mise en production.
 
-Le projet a été imaginé, conçu et développé dans sa globalité, depuis l’analyse des besoins jusqu’au déploiement.
-
----
-
-## Fonctionnalités clés
+### Fonctionnalités clés
 
 - gestion des écoles, classes et années scolaires
 - accès sécurisé aux galeries photos pour les familles
 - sélection et commande de photos individuelles et de groupe
-- suivi des commandes dans un backoffice dédié
+- gestion et suivi des commandes dans un backoffice dédié
 - génération automatique de bons de commande PDF
 - export Excel pour le suivi et la préparation des commandes
 - envoi d’e-mails transactionnels
 
----
-
-## Architecture & choix techniques
+### Architecture & choix techniques
 
 - **Backend :** API REST avec Symfony  
 - **Frontend :** application Next.js  
 - **Base de données :** MySQL  
 - **Stockage des photos :** OVH Object Storage (compatible S3)  
-- **Architecture :** séparation claire frontend / backend / stockage  
+- **Déploiement :** Vercel et Scalingo  
 
----
-
-## Déploiement & exploitation
-
-- **Frontend :** déployé sur Vercel  
-- **Backend :** déployé sur Scalingo  
-- **Stockage des photos :** OVH Object Storage  
-- gestion des environnements et des variables sensibles  
-- maintenance et amélioration continue
-
----
-
-## Aperçu du projet
+### Aperçu du projet
 
 ➡️ Présentation détaillée du projet :  
 https://github.com/alfaro-b/manaketak-showcase
 
----
-
-🔒 Le code source complet n’est pas public car le projet est exploité en production.
+🔒 Le code source complet est privé, car l'application est utilisée en production.
 
 ---
 
-## 🎯 Objectif actuel
+## Autres projets
 
-Poursuivre mon évolution en développement d’applications web dans le cadre d’une **alternance en Conception et Développement d’Applications (CDA)**.
+### Carambar – Application de gestion de blagues
 
----
+Projet réalisé avec JavaScript, Node.js et Express, comprenant une API REST et une interface frontend permettant de consulter des blagues.
+
+- [Code du backend](https://github.com/alfaro-b/carambar_back)
+- [Code du frontend](https://github.com/alfaro-b/carambar_front)
+
+### Memory Game – Jeu de mémoire
+
+Petit jeu interactif développé en HTML, CSS et JavaScript, permettant de travailler la manipulation du DOM, les événements et la logique de programmation.
+
+🔗 [Voir le projet](LIEN_DU_REPOSITORY)
+
+---   
 
 ## 📬 Me contacter
 
-- LinkedIn : https://www.linkedin.com/in/bittori-alfaro
+- [LinkedIn](https://www.linkedin.com/in/bittori-alfaro)
+- [Portfolio](https://alfaro-b.github.io/portfolio/)
